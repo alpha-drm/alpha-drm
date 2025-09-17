@@ -112,6 +112,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Github Activity](https://github-readme-stats.vercel.app/api?username=alpha-drm&show_icons=true&locale=es)
+<!-- ![Github Activity](https://github-readme-stats.vercel.app/api?username=alpha-drm&show_icons=true&locale=es) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-drm&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
