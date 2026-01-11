@@ -121,10 +121,13 @@ Here are some ideas to get you started:
   
 <h4 align="center">Stats</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpha-drm&show_icons=true&theme=default&rank_icon=github&locale=en">
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=alpha-drm&show_icons=true&theme=default&rank_icon=github&locale=en">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alpha-drm&show_icons=true&theme=default&rank_icon=github&locale=en"> -->
 </br>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-drm&layout=compact&locale=en">
+
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alpha-drm&layout=compact&locale=en">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-drm&layout=compact&locale=en"> -->
 
 </div>
 
